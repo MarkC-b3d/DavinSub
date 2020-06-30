@@ -3,4 +3,6 @@ Forked DaVinci Resolve theme with the shader editor made to look like substance 
 
 # Screenshots
 
-![Screenshot_1](https://imgur.com/ab759659-54fe-447b-9a37-0a4aa01c7e5f)
+![Screenshot_1](https://i.imgur.com/7N0X3NY.png)
+
+![Screenshot_2](https://i.imgur.com/zYcdQ8a.png)
